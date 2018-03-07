@@ -14,5 +14,7 @@ Le kit “ Distance meter Kit ” permet au débutant dans le domaine d’élect
 •	Arduino UNO + Cable<br />
 •	BreadBoard Mini<br />
 •	Potentiométre<br />
-                            For more infos Contact Us
-                               by NEXTRONIC© Team 
+
+
+                                For more infos Contact Us
+                                   by NEXTRONIC© Team 
